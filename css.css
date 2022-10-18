@@ -1,0 +1,28 @@
+*{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    margin:100px;
+    width:300px;
+    height:auto;
+    background-color:blanchedalmond;
+}
+.center,h2{
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:1000;
+    text-transform:capitalize;
+}
+ul{
+    list-style:none;
+    text-align:left;
+}
+.one{
+    width:200px;
+    text-transform:capitalize;
+}
+hr{
+    height:2px;
+    background-color:red;
+}
